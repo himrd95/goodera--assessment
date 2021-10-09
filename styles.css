@@ -112,6 +112,8 @@ input {
 	background: #f07987;
 	border-radius: 8px;
 	color: white;
+	font-weight: 600;
+	font-size: 24px;
 }
 
 .card-section {
@@ -215,6 +217,7 @@ input {
 		margin-top: 10px;
 		height: fit-content;
 		padding: 10px 0;
+		font-size: 16px;
 	}
 	.location-drop-down {
 		margin-left: 10vw;
